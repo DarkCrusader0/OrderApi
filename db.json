@@ -1,12 +1,10 @@
 {
   "orderitems": [
    {
-     
      "id": 1,
      "name": "Chicken Burger",
      "category": "Burgers",
      "price": 250.00
-     
-     }
+    }
   ]
 }
