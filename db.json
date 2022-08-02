@@ -12,15 +12,13 @@
     {
       "id": "1",
       "date": "2022-05-28",
-      "orders": [1],
-      "orderItems": ["Chicken Burger"],
+      "foodsOrdered": [1],
       "isPaid": false
     },
     {
       "id": "2",
       "date": "2022-05-28",
-      "orders": [1],
-      "orderItems": ["Chicken Burger"],
+      "foodsOrdered": ["Chicken"],
       "isPaid": false
     }
   ]
