@@ -13,24 +13,14 @@
       "id": "1",
       "date": "2022-05-28",
       "orders": [1],
-      "customer": {
-        "id": 1,
-        "name": "John Doe",
-        "address": "7, This Street, City",
-        "phoneNumber": "+230 5 777 6666"
-      },
+      "orderItems": ["Chicken Burger"],
       "isPaid": false
     },
     {
       "id": "2",
       "date": "2022-05-28",
       "orders": [1],
-      "customer": {
-        "id": 2,
-        "name": "Lisa Johnson",
-        "address": "8, North Road, The Village",
-        "phoneNumber": "+230 5 777 8888"
-      },
+      "orderItems": ["Chicken Burger"],
       "isPaid": false
     }
   ]
