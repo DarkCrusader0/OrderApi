@@ -5,6 +5,18 @@
       "name": "Chicken Burger",
       "category": "Burgers",
       "price": 250.0
+    },
+    {
+      "id": 2,
+      "name": "Beef Burger",
+      "category": "Burgers",
+      "price": 350.0
+    },
+    {
+      "id": 2,
+      "name": "Veg Burger",
+      "category": "Burgers",
+      "price": 200.0
     }
   ],
 
